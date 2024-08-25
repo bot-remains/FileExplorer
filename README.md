@@ -1,7 +1,5 @@
 # File Explorer
 
----
-
 This File Explorer has been crafted with great attention and considerable effort, aiming to provide a seamless user experience for file management tasks. With its intuitive interface and comprehensive feature set, it enables users to navigate through directories effortlessly, utilizing both tree and table structures.
 
 ## Features
